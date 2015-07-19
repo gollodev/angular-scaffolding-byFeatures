@@ -1,6 +1,6 @@
 (function (angular, undefined) {	
-	'use stric'
+	'use stric';
 
-	angular.module('App.User', [])
+	angular.module('App.User', []);
 	
 })(angular);
